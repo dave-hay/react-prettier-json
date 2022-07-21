@@ -1,6 +1,6 @@
 {
   "name": "react-prettier-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pretty print your JSON or Object as a React Component.",
   "main": "PrettyData.tsx",
   "scripts": {
