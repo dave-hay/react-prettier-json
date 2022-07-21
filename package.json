@@ -2,7 +2,7 @@
   "name": "react-prettier-json",
   "version": "1.0.1",
   "description": "Pretty print your JSON or Object as a React Component.",
-  "main": "PrettyData.tsx",
+  "main": "dist/PrettyData.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
