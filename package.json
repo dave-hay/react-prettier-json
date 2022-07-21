@@ -1,0 +1,24 @@
+{
+  "name": "react-prettier-json",
+  "version": "1.0.0",
+  "description": "Pretty print your JSON or Object as a React Component.",
+  "main": "PrettyData.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/hayitsdavid/react-prettier-json"
+  },
+  "keywords": [
+    "React",
+    "Prettier",
+    "JSON",
+    "Component"
+  ],
+  "author": "David Hay",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
